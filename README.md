@@ -1196,3 +1196,21 @@ Skills demonstrated in this project:
 **n8n · AI Automation · Google Gemini · JavaScript · Webhooks · APIs · JSON · Google Sheets · Gmail · PowerShell**
 
 ---
+
+## Screenshots
+
+### 1. Workflow Architecture
+
+![Workflow Architecture](screenshots/workflow-architecture.png)
+
+### 2. Successful Execution
+
+![Successful Execution](screenshots/successful-execution.png)
+
+### 3. Google Sheets Results
+
+![Google Sheets Results](screenshots/google-sheets-results.png)
+
+### 4. Gmail Automation
+
+![Gmail Automation](screenshots/gmail-automation.png)
