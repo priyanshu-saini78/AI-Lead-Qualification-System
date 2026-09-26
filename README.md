@@ -1154,7 +1154,7 @@ The workflow currently supports:
 
 ## Conclusion
 
-The AI Lead Qualification & Processing System demonstrates how AI, APIs, workflow automation, conditional logic, programming, and business integrations can be combined to solve a practical business problem.
+The AI Lead Qualification System demonstrates how AI, APIs, workflow automation, conditional logic, programming, and business integrations can be combined to solve a practical business problem.
 
 The project goes beyond a simple AI API call by implementing:
 
