@@ -1,4 +1,4 @@
-# AI Lead Qualification & Processing System
+# AI Lead Qualification System
 
 An AI-powered lead processing and qualification workflow built with n8n, Google Gemini, Google Sheets, and Gmail.
 
